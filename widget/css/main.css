@@ -55,9 +55,15 @@ li {
   padding: 5px 0;
   text-align: center;
 }
+.targetTitle {
+  box-sizing: border-box;
+  background: pink;
+  color: white;
+  /*border-bottom: 1px solid pink;*/
+}
 
 .navigation {
-  border-top: 2px solid gray;
+  /*border-top: 2px solid gray;*/
   border-bottom: 2px solid gray;
 }
 .newsDescribe{
